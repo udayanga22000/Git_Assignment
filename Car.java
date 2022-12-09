@@ -37,6 +37,7 @@ public class Car {
 		else
 			System.out.print("No fuel");
 	}
+	//create refuel method
 	public void refuel() {
 		if (amountOfFuel!=0) {	
 			this.amountOfFuel = amountOfFuel - 1;
