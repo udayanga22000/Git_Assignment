@@ -7,6 +7,7 @@ public class Car {
 	public void setSpeed(int speed) {
 		this.speed=speed;
 	}
+	//set the brand
 	public void setBrand(String brand) {
 		this.brand=brand;
 	}
